@@ -1,4 +1,4 @@
-# Anatomia
+<img width="1596" height="909" alt="{B385B240-1D52-4C3C-B237-C058F0A89614}" src="https://github.com/user-attachments/assets/824d66a5-b4d1-4045-8360-61896db79f3d" /># Anatomia
 
 <p align="center">
   <img src="/Assets/Sprite/Anatomia-logo-removebg.png" width="240">
@@ -357,6 +357,7 @@ Teacher can manage gamification-related settings used by the application.
 - Admin Student Activity
 - Admin Gamification Settings
 - Admin About Anatomia
+  
 ---
 
 # ️ Technology Stack
